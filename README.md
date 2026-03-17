@@ -2,9 +2,6 @@
  Full Stack Developer | Golang & MEARN Specialist
  I am a results-driven Software Developer with a focus on building scalable internal applications and high-performance user interfaces. I enjoy optimizing load times and creating reusable components to make the web faster and more efficient
 
-
- 🛠 Currently Working: At Ceroen Software Solutions.
-
 ⚡ Performance Wins: Reduced initial load times by 40% using Angular lazy loading.
 
 🏗 Architectural Focus: Building CRUD services with GoKit, GORM, and PostgreSQL.
