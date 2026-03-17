@@ -1,16 +1,18 @@
- Hi, I'm Athul Thomas
- Full Stack Developer | Golang & MEARN Specialist
- I am a results-driven Software Developer with a focus on building scalable internal applications and high-performance user interfaces. I enjoy optimizing load times and creating reusable components to make the web faster and more efficient
+# Hi, I'm Athul Thomas 👋
 
-⚡ Performance Wins: Reduced initial load times by 40% using Angular lazy loading.
+I'm a passionate Angular & Full-Stack Developer with experience in building scalable, high-performance web applications. I enjoy turning complex problems into clean, maintainable code and delivering production-ready solutions.
 
-🏗 Architectural Focus: Building CRUD services with GoKit, GORM, and PostgreSQL.
+💻 **Tech Stack:**  
+- **Frontend:** Angular, React, TypeScript, JavaScript, RxJS, HTML5, CSS3, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Golang (GoKit, GORM)  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, REST APIs, JWT, Redis  
 
-🎓 Education: B.Tech in Computer Science & Engineering.
+🚀 **Experience Highlights:**  
+- Built a **multi-cloud storage system** integrating Amazon S3, Google Drive, and Azure with Angular for seamless file management  
+- Developed reusable Angular components, optimized lazy-loaded applications, and implemented Reactive Forms, Guards, Interceptors, and centralized error handling  
+- Worked on full-stack projects including e-commerce platforms, vendor management systems, and authentication systems  
 
-Category,Tools & Languages
-Languages,"Python, JavaScript, TypeScript, Go (Golang), C "
-Frontend,"React.js, Angular, Tailwind CSS, Redux, Material UI "
-Backend,"Node.js, Express.js, NestJS, GoKit "
-Databases,"PostgreSQL, MongoDB "
-DevOps/Tools,"Docker, Git, GitHub, VS Code "
+🌱 **I’m currently learning:** Advanced Angular patterns, NgRx for state management, and cloud-native backend architectures.  
+
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/athul-thomas12) | [Email](mailto:athulnirappen@gmail.com)  
